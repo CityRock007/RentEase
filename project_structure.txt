@@ -1,0 +1,41 @@
+/lib
+  main.dart
+  /screens
+    home_screen.dart
+    property_details_screen.dart
+    add_property_screen.dart
+    tenant_dashboard.dart
+    maintenance_screen.dart
+  /widgets
+  /models
+  /providers
+  /services
+    api_service.dart
+    auth_service.dart
+    payment_service.dart
+    notification_service.dart
+
+/backend
+  server.js
+  /routes
+    auth.js
+    property.js
+    payment.js
+    maintenance.js
+  /controllers
+  /models
+  /middlewares
+  /config
+    db.js
+    aws.js
+    mail.js
+
+/assets
+  /images
+  /icons
+  /videos
+
+/docs
+  api_endpoints.md
+  system_architecture.png
+  feature_list.md
