@@ -1,0 +1,11 @@
+Agents / Landlords / Tenants → RentEase Web & Mobile App (Flutter)
+│
+│──> REST API (Node.js + Express)
+│
+│──> Database (PostgreSQL - ReinHost Cloud)
+│
+│──> File Storage (AWS S3 / ReinHost Storage)
+│
+│──> Payment Gateway (Paystack / Flutterwave)
+│
+└──> Notifications (Firebase / SMTP)
